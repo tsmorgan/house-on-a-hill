@@ -5,7 +5,7 @@ import {
   WRONG_PX,
   CORRECT_PX,
   COMPLETE_PX,
-  SPEED_FACTOR,
+  getSpeedFactor,
   updatePixelConstants,
 } from "./constants.js";
 import { shuffleArray } from "./utils.js";
